@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simz1996
-- 👀 I’m interested in Deep Neural Networks
+- 👀 I’m interested in Deep Neural Networks and Web Dev
 - 🌱 I’m currently experimenting on both Large  and Small Language Models(GPT)
 - 💞️ I’m looking to collaborate on LLM projects
 - 📫 How to reach me:simairamou8@gmail.com
